@@ -6,8 +6,8 @@
 MaimoonaKhilji/MaimoonaKhilji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&layout=compact&theme=dark"/>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=MaimoonaKhilji&show_icons=true&theme=dark"/>
