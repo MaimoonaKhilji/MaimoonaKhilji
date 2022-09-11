@@ -162,9 +162,9 @@ You can click the Preview link to take a look at your changes.
             <img height="32px" src="https://user-images.githubusercontent.com/64362437/187420204-0e96ffdb-d87d-405c-b37b-722bb8cca027.png">
             </td>
             <td width="80px" align="center">
-            <span><strong>MySql</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-            </td>
+            <span><strong>JQuery</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+          </td>
         </tr>
     </tbody>
 </table>
