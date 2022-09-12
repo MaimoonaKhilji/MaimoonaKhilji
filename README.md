@@ -67,8 +67,8 @@ You can click the Preview link to take a look at your changes.
             <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            <span><strong>Spyder</strong></span><br>
+            <img height="32px" src="https://user-images.githubusercontent.com/64362437/189606958-0e4ca97f-8c35-4dfb-b658-f9a73cae141c.png">
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
