@@ -9,8 +9,10 @@ You can click the Preview link to take a look at your changes.
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&theme=dark"/> -->
 ### Language Statistics:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaimoonaKhilji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
+
+
 
 ### Connect with me:
 <div align="center">
@@ -181,4 +183,14 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MaimoonaKhilji&show_icons=true&theme=dark"/>
 </div>
+
+### Graph
+<br/>
+<br/>
+
+<a href="https://github.com/MaimoonaKhilji/github-readme-activity-graph"><img alt="Maimoona Khilji's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MaimoonaKhilji&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
