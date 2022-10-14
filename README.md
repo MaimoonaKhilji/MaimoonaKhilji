@@ -169,6 +169,13 @@ You can click the Preview link to take a look at your changes.
     </tbody>
 </table>
 
+### Github Streak:
+<p align="center">
+    <a href="https://github.com/MaimoonaKhilji/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MaimoonaKhilji's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=maimoonakhilji&theme=dark&border_radius=5.1"/>
+    </a>
+</p>
+
 
 ### Github Stats:
 <div align="center">
