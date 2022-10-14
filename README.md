@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @MaimoonaKhilji
-- 👀 I’m interested in coding programmes.
-- 🌱 I’m currently improving my coding skills. I know Java, Python, SQL, and R programming Languages.
+
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is me Maimoona Khilji</h1>
+<h3 align="center">Data Scientist | Data Analyst | Data Engineer | Developer</h3>
 
 <!---
 MaimoonaKhilji/MaimoonaKhilji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaimoonaKhilji&theme=dark"/> -->
+
+### About me 🙋‍♀️
+
+I am a Developer passionate about developing 
+- <img src="https://user-images.githubusercontent.com/64362437/195947535-b5b9e906-6942-4820-a818-7e2b22378e90.png" width="50px" style="vertical-align:middle;margin-right:20px">                  Interactive Websites 
+- <img src="https://user-images.githubusercontent.com/64362437/195948106-ace86cd9-29c0-45bc-b757-a716c9364ef4.png" width="50px" style="vertical-align:middle;margin-right:20px"> Applications 
+- <img src="https://user-images.githubusercontent.com/64362437/195948198-bc02d004-2d9c-477f-94d3-1fc8cfa50aff.png" width="50px" style="vertical-align:middle;margin-right:20px"> Games 
+- <img src="https://user-images.githubusercontent.com/64362437/195948359-2606e1bd-acbb-449e-b971-174f7bd4af9e.png" width="50px" style="vertical-align:middle;margin-right:20px"> Dashboards 
+- <img src="https://user-images.githubusercontent.com/64362437/195948492-9b483888-834e-4d0e-bc9c-2b49de57c020.png" width="50px" style="vertical-align:middle;margin-right:20px"> Solutions to real-world problems 
+
 ### Language Statistics:
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaimoonaKhilji&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
