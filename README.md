@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 ### About me 🙋‍♀️
 
 I am a Developer passionate about developing 
-- <img src="https://user-images.githubusercontent.com/64362437/195947535-b5b9e906-6942-4820-a818-7e2b22378e90.png" width="50px" style="vertical-align:middle;margin-right:20px">                  Interactive Websites 
-- <img src="https://user-images.githubusercontent.com/64362437/195948106-ace86cd9-29c0-45bc-b757-a716c9364ef4.png" width="50px" style="vertical-align:middle;margin-right:20px"> Applications 
-- <img src="https://user-images.githubusercontent.com/64362437/195948198-bc02d004-2d9c-477f-94d3-1fc8cfa50aff.png" width="50px" style="vertical-align:middle;margin-right:20px"> Games 
-- <img src="https://user-images.githubusercontent.com/64362437/195948359-2606e1bd-acbb-449e-b971-174f7bd4af9e.png" width="50px" style="vertical-align:middle;margin-right:20px"> Dashboards 
-- <img src="https://user-images.githubusercontent.com/64362437/195948492-9b483888-834e-4d0e-bc9c-2b49de57c020.png" width="50px" style="vertical-align:middle;margin-right:20px"> Solutions to real-world problems 
+- <img src="https://user-images.githubusercontent.com/64362437/195947535-b5b9e906-6942-4820-a818-7e2b22378e90.png" width="20px"> Interactive Websites 
+- <img src="https://user-images.githubusercontent.com/64362437/195948106-ace86cd9-29c0-45bc-b757-a716c9364ef4.png" width="20px"> Applications 
+- <img src="https://user-images.githubusercontent.com/64362437/195948198-bc02d004-2d9c-477f-94d3-1fc8cfa50aff.png" width="20px"> Games 
+- <img src="https://user-images.githubusercontent.com/64362437/195948359-2606e1bd-acbb-449e-b971-174f7bd4af9e.png" width="20px"> Dashboards 
+- <img src="https://user-images.githubusercontent.com/64362437/195948492-9b483888-834e-4d0e-bc9c-2b49de57c020.png" width="20px"> Solutions to real-world problems 
 
 ### Language Statistics:
 <div align="center">
