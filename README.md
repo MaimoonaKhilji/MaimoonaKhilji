@@ -38,8 +38,8 @@ I'm passionate about leveraging data to derive insights and make informed decisi
     <img height="50" src="https://user-images.githubusercontent.com/64362437/187198130-cf790c34-935d-4ad8-a25b-c8b5777681be.png"/>
 </a>
 
-<a href="https://twitter.com/MaimoonaKhilji">
-    <img height="50" src="https://user-images.githubusercontent.com/64362437/187197865-87e0d289-518a-4412-a77e-50fb9d10519a.png"/>
+<a href="https://www.youtube.com/@Tech.sapien">
+    <img height="55" src="https://github.com/MaimoonaKhilji/MaimoonaKhilji/assets/64362437/5db61f2e-6e7d-43ff-9cab-894ce20e9972"/>
 </a>
 
 
@@ -75,7 +75,7 @@ I'm passionate about leveraging data to derive insights and make informed decisi
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
             </td>
         </tr>
-             <tr valign="top">
+        <tr valign="top">
             <td width="80px" align="center">
             <span><strong>TensorFlow</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
