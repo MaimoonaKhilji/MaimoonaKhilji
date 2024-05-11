@@ -51,7 +51,7 @@ I'm passionate about leveraging data to derive insights and make informed decisi
 
 ### Languages and Tools:
 
-<table width="320px" align="center">
+<table width="340px" align="center">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -66,7 +66,7 @@ I'm passionate about leveraging data to derive insights and make informed decisi
             <span><strong>Spyder</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/64362437/189606958-0e4ca97f-8c35-4dfb-b658-f9a73cae141c.png">
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
             <span><strong>Firebase</strong></span><br>
             <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg">
             </td>
@@ -87,7 +87,7 @@ I'm passionate about leveraging data to derive insights and make informed decisi
             <span><strong>R</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
             <span><strong>Pandas</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
             </td>
@@ -108,17 +108,16 @@ I'm passionate about leveraging data to derive insights and make informed decisi
             <span><strong>Jupyter</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Anaconda</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-            </td>
+            <td width="95px" align="center">
+            <span><strong>Power BI</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">
+            </td>  
             <td width="80px" align="center">
             <span><strong>MS Office</strong></span><br>
             <img height="32px" src="https://user-images.githubusercontent.com/64362437/187420204-0e96ffdb-d87d-405c-b37b-722bb8cca027.png">
             </td>
         </tr>
         
-    </tbody>
 </table>
 
 ### Github Streak:
